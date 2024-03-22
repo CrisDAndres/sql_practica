@@ -4,6 +4,8 @@ Este repositorio contiene una serie de ejercicios prácticos de SQL implementado
 
 ![Logo SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
 
+*Fuente de la imagen: https://www.bigbaydata.com*
+
 ### ¿Qué es SQL?
 
 El lenguaje de consulta estructurada SQL, del inglés **Structured Query Language**, es un lenguaje de programación utilizado para almacenar y procesar datos almacenados en bases de datos **relacionales**. Una base de datos relacional almacena información en forma de tabla, con filas y columnas que representan diferentes atributos de datos y las relaciones entre las diferentes variables. Permite realizar consultas, actualizaciones, inserciones y eliminaciones de datos, así como definir y manipular la estructura de las bases de datos.
