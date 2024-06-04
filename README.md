@@ -26,9 +26,11 @@ Todos los tipos de SQL tienen algunos comandos básicos. Algunos de los más com
 
 - UPDATE: Permite modificar datos existentes
 
-- ORDER BY: Permite ordenar los datos mediante un criterio de ordenación
+- JOIN: Permita combinar datos de 2 o más tablas
 
 - DELETE: Permite eliminar datos existentes
 
 - GROUP BY: Permite agrupar filas con los mismos valores
+
+- ORDER BY: Permite ordenar los datos mediante un criterio de ordenación
 
