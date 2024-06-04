@@ -2,9 +2,9 @@
 
 Este repositorio contiene una serie de ejercicios prácticos de SQL implementados en Python utilizando una conexión a un servidor de MySQL externo.
 
-![Logo SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
+![Logo SQL](SQL-Image.png)
 
-*Fuente de la imagen: https://www.bigbaydata.com*
+*Fuente de la imagen: https://www.geeksforgeeks.org/*
 
 ### ¿Qué es SQL?
 
