@@ -12,25 +12,31 @@ El lenguaje de consulta estructurada SQL, del inglés **Structured Query Languag
 
 Hay varios tipos de bases de datos SQL. En este proyecto utilizaremos el sistema de gestión de bases de datos relacionales **MySQL**.
 
-### Comandos básicos de SQL para manipular los datos
+### Contenido
 
-Todos los tipos de SQL tienen algunos comandos básicos. Algunos de los más comunes son:
+1. SCRIPT DE CONEXIÓN A LA BASE DE DATOS
+2. EJEMPLO DE CONEXIÓN A UNA BASE DE DATOS DE MYSQL
+3. EJERCICIOS DE CONSULTAS SQL
+   
+#### Comandos básicos de SQL para manipular los datos
 
-- SELECT: Permite seleccionar los datos
+Todos los tipos de SQL tienen algunos comandos básicos. Algunos de los más comunes y que se utilizarán en estos ejercicios son:
 
-- FROM: Especifica las tablas de las que se van a obtener los datos
+- ``SELECT``: Permite seleccionar los datos
 
-- WHERE: Permite filtrar los datos mediante un criterio de selección
+- ``FROM``: Especifica las tablas de las que se van a obtener los datos
 
-- INSERT: Permite insertar nuevos datos
+- ``WHERE``: Permite filtrar los datos mediante un criterio de selección
 
-- UPDATE: Permite modificar datos existentes
+- ``INSERT``: Permite insertar nuevos datos
 
-- JOIN: Permita combinar datos de 2 o más tablas
+- ``UPDATE``: Permite modificar datos existentes
 
-- DELETE: Permite eliminar datos existentes
+- ``JOIN``: Permita combinar datos de 2 o más tablas
 
-- GROUP BY: Permite agrupar filas con los mismos valores
+- ``DELETE``: Permite eliminar datos existentes
 
-- ORDER BY: Permite ordenar los datos mediante un criterio de ordenación
+- ``GROUP BY``: Permite agrupar filas con los mismos valores
+
+- ``ORDER BY``: Permite ordenar los datos mediante un criterio de ordenación
 
